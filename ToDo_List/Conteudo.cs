@@ -20,6 +20,7 @@ namespace ToDo_List
         private void Conteudo_Load(object sender, EventArgs e)
         {
             UC_Login log = new UC_Login();
+            UC_Home h = new UC_Home();
             
             adicionarUserControl(log);
         }

@@ -34,3 +34,8 @@ C:\Users\Aluno_Manha\source\repos\ToDo_List\ToDo_List\obj\Debug\net8.0-windows\T
 C:\Users\Aluno_Manha\source\repos\ToDo_List\ToDo_List\obj\Debug\net8.0-windows\ref\ToDo_List.dll
 C:\Users\Aluno_Manha\source\repos\ToDo_List\ToDo_List\obj\Debug\net8.0-windows\ToDo_List.Conteudo.resources
 C:\Users\Aluno_Manha\source\repos\ToDo_List\ToDo_List\obj\Debug\net8.0-windows\ToDo_List.UserControls.UC_Login.resources
+C:\Users\Aluno_Manha\source\repos\ToDo_List\ToDo_List\obj\Debug\net8.0-windows\ToDo_List.sourcelink.json
+C:\Users\Aluno_Manha\source\repos\ToDo_List\ToDo_List\obj\Debug\net8.0-windows\ToDo_List.UserControls.UC_Home.resources
+C:\Users\Aluno_Manha\source\repos\ToDo_List\ToDo_List\bin\Debug\net8.0-windows\aa\ToDo_List.resources.dll
+C:\Users\Aluno_Manha\source\repos\ToDo_List\ToDo_List\obj\Debug\net8.0-windows\ToDo_List.Conteudo.aa.resources
+C:\Users\Aluno_Manha\source\repos\ToDo_List\ToDo_List\obj\Debug\net8.0-windows\aa\ToDo_List.resources.dll

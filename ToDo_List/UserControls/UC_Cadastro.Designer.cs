@@ -42,12 +42,13 @@
             // 
             // btnCadastrar
             // 
-            btnCadastrar.Location = new Point(218, 344);
+            btnCadastrar.Location = new Point(211, 342);
             btnCadastrar.Name = "btnCadastrar";
-            btnCadastrar.Size = new Size(93, 37);
+            btnCadastrar.Size = new Size(110, 37);
             btnCadastrar.TabIndex = 14;
             btnCadastrar.Text = "Criar conta";
             btnCadastrar.UseVisualStyleBackColor = true;
+            btnCadastrar.Click += btnCadastrar_Click;
             // 
             // lblEmail
             // 

@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Conteudo));
             contextMenuStrip1 = new ContextMenuStrip(components);
             panelCentral = new Panel();
             SuspendLayout();
@@ -36,24 +37,21 @@
             // contextMenuStrip1
             // 
             contextMenuStrip1.Name = "contextMenuStrip1";
-            contextMenuStrip1.Size = new Size(61, 4);
+            resources.ApplyResources(contextMenuStrip1, "contextMenuStrip1");
             // 
             // panelCentral
             // 
-            panelCentral.Dock = DockStyle.Fill;
-            panelCentral.Location = new Point(0, 0);
+            resources.ApplyResources(panelCentral, "panelCentral");
             panelCentral.Name = "panelCentral";
-            panelCentral.Size = new Size(563, 447);
-            panelCentral.TabIndex = 1;
             // 
             // Conteudo
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            resources.ApplyResources(this, "$this");
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(563, 447);
             Controls.Add(panelCentral);
+            MaximizeBox = false;
+            MinimizeBox = false;
             Name = "Conteudo";
-            Text = "Conteudo";
             Load += Conteudo_Load;
             ResumeLayout(false);
         }

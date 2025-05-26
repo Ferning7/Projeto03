@@ -12,6 +12,11 @@
         },
         "runtime": {
           "ToDo_List.dll": {}
+        },
+        "resources": {
+          "aa/ToDo_List.resources.dll": {
+            "locale": "aa"
+          }
         }
       },
       "BouncyCastle.Cryptography/2.5.1": {

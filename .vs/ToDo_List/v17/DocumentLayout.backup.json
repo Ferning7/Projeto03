@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|c:\\users\\aluno_manha\\source\\repos\\todo_list\\todo_list\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|solutionrelative:todo_list\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|c:\\users\\aluno_manha\\source\\repos\\todo_list\\todo_list\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|solutionrelative:todo_list\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|c:\\users\\aluno_manha\\source\\repos\\todo_list\\todo_list\\conteudo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|solutionrelative:todo_list\\conteudo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|c:\\users\\aluno_manha\\source\\repos\\todo_list\\todo_list\\usercontrols\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|solutionrelative:todo_list\\usercontrols\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|c:\\users\\aluno_manha\\source\\repos\\todo_list\\todo_list\\usercontrols\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|solutionrelative:todo_list\\usercontrols\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|c:\\users\\aluno_manha\\source\\repos\\todo_list\\todo_list\\usercontrols\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|solutionrelative:todo_list\\usercontrols\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|c:\\users\\aluno_manha\\source\\repos\\todo_list\\todo_list\\usercontrols\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|solutionrelative:todo_list\\usercontrols\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|c:\\users\\aluno_manha\\source\\repos\\todo_list\\todo_list\\usercontrols\\uc_cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|solutionrelative:todo_list\\usercontrols\\uc_cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|c:\\users\\aluno_manha\\source\\repos\\todo_list\\todo_list\\usercontrols\\uc_cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|solutionrelative:todo_list\\usercontrols\\uc_cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|c:\\users\\aluno_manha\\source\\repos\\todo_list\\todo_list\\conteudo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1B650F-E159-4BDC-803E-1DDF2BB8DD95}|ToDo_List\\ToDo_List.csproj|solutionrelative:todo_list\\conteudo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,76 +39,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\Usuarios.cs",
-              "RelativeDocumentMoniker": "ToDo_List\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\Usuarios.cs",
-              "RelativeToolTip": "ToDo_List\\Usuarios.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAIwGAAAAAVAAAAAAAAAA==",
+              "Title": "Tarefas.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\Tarefas.cs",
+              "RelativeDocumentMoniker": "ToDo_List\\Tarefas.cs",
+              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\Tarefas.cs",
+              "RelativeToolTip": "ToDo_List\\Tarefas.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAKUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:40:22.077Z",
+              "WhenOpened": "2025-05-26T12:01:30.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Conteudo.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\Conteudo.cs",
-              "RelativeDocumentMoniker": "ToDo_List\\Conteudo.cs",
-              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\Conteudo.cs [Projeto]",
-              "RelativeToolTip": "ToDo_List\\Conteudo.cs [Projeto]",
+              "Title": "UC_Home.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\UserControls\\UC_Home.cs",
+              "RelativeDocumentMoniker": "ToDo_List\\UserControls\\UC_Home.cs",
+              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\UserControls\\UC_Home.cs",
+              "RelativeToolTip": "ToDo_List\\UserControls\\UC_Home.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAhwEoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:37:10.937Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UC_Login.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\UserControls\\UC_Login.cs",
-              "RelativeDocumentMoniker": "ToDo_List\\UserControls\\UC_Login.cs",
-              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\UserControls\\UC_Login.cs",
-              "RelativeToolTip": "ToDo_List\\UserControls\\UC_Login.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAMwA4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:34:44.669Z",
+              "WhenOpened": "2025-05-26T13:11:20.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UC_Login.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\UserControls\\UC_Login.cs",
-              "RelativeDocumentMoniker": "ToDo_List\\UserControls\\UC_Login.cs",
-              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\UserControls\\UC_Login.cs [Projeto]",
-              "RelativeToolTip": "ToDo_List\\UserControls\\UC_Login.cs [Projeto]",
+              "Title": "Conteudo.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\Conteudo.cs",
+              "RelativeDocumentMoniker": "ToDo_List\\Conteudo.cs",
+              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\Conteudo.cs",
+              "RelativeToolTip": "ToDo_List\\Conteudo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:33:57.471Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UC_Cadastro.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\UserControls\\UC_Cadastro.cs",
-              "RelativeDocumentMoniker": "ToDo_List\\UserControls\\UC_Cadastro.cs",
-              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\UserControls\\UC_Cadastro.cs",
-              "RelativeToolTip": "ToDo_List\\UserControls\\UC_Cadastro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:30:38.009Z",
+              "WhenOpened": "2025-05-26T13:09:39.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UC_Cadastro.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\UserControls\\UC_Cadastro.cs",
-              "RelativeDocumentMoniker": "ToDo_List\\UserControls\\UC_Cadastro.cs",
-              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\UserControls\\UC_Cadastro.cs [Projeto]",
-              "RelativeToolTip": "ToDo_List\\UserControls\\UC_Cadastro.cs [Projeto]",
+              "DocumentIndex": 2,
+              "Title": "UC_Home.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\UserControls\\UC_Home.cs",
+              "RelativeDocumentMoniker": "ToDo_List\\UserControls\\UC_Home.cs",
+              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\ToDo_List\\ToDo_List\\UserControls\\UC_Home.cs [Projeto]",
+              "RelativeToolTip": "ToDo_List\\UserControls\\UC_Home.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:26:30.953Z",
+              "WhenOpened": "2025-05-26T12:27:27.67Z",
               "EditorCaption": " [Projeto]"
             }
           ]

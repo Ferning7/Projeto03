@@ -91,7 +91,7 @@ namespace ToDo_List
                     comando.Parameters.AddWithValue("@email", Email);
                     comando.Parameters.AddWithValue("@senha", Senha);
 
-                    int resultado = comando.ExecuteNonQuery();
+                    int resultado = Convert.ToInt32(comando.ExecuteScalar());
 
                     if (resultado > 0)
                     {
